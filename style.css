@@ -9,6 +9,7 @@ header {
 }
 
 ul {
+    display: flex;
     list-style: none;
     color: blue;
     font-size: 40px;
