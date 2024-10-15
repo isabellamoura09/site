@@ -22,5 +22,5 @@ header {
 .nav-item:hover{
     cursor: pointer;
     background-color: pink
-    color: white
+    color:white
 }
